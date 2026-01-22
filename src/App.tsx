@@ -180,8 +180,7 @@ function App() {
                 <Brain className="h-6 w-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-gray-900">AI Workshop</h1>
-                <p className="text-sm text-gray-500">Attendance Tracker</p>
+                <h1 className="text-xl font-bold text-gray-900">claude demo project</h1>
               </div>
             </div>
             
